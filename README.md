@@ -1,7 +1,19 @@
+# Hi there! 👋  
+
+<!-- Dark mode stats -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lecheeel/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Lecheeel/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
+</p>
+
+🌟 Welcome to my GitHub profile! I'm passionate about coding, open-source, and always exploring new technologies.  
+🚀 Feel free to check out my repositories and contributions!  
+
+<!--
 ## Hi there 👋
 ![](https://raw.githubusercontent.com/Lecheeel/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Lecheeel/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-<!--
+
 
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)

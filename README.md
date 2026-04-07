@@ -26,7 +26,7 @@
 
 ---
 
-## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="28" height="28" />
+## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="28" height="28" />
 
 **AI / ML**
 
@@ -45,6 +45,8 @@
 </p>
 
 **Embedded Systems**
+
+ESP-IDF · FreeRTOS · PlatformIO · STM32 HAL · Bare-metal
 
 <p align="center">
   <a href="https://skillicons.dev">

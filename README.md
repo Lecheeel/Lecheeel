@@ -46,11 +46,9 @@
 
 **Embedded Systems**
 
-ESP-IDF · FreeRTOS · PlatformIO · STM32 HAL · Bare-metal
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,linux,cmake,qt,ros,bash,vscode&perline=10" alt="Embedded systems stack: C, C++, Arduino, Raspberry Pi, Linux, CMake, Qt, ROS, Bash, VS Code" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,raspberrypi,linux,cmake,qt,ros,bash,vscode&perline=10" alt="Embedded systems stack: C, C++, Raspberry Pi, Linux, CMake, Qt, ROS, Bash, VS Code" />
   </a>
 </p>
 

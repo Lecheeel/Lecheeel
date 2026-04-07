@@ -1,10 +1,26 @@
 # Hi there! 👋  
 <p align="center">
   <a href="https://github.com/Lecheeel/Lecheeel">
-    <img src="https://raw.githubusercontent.com/Lecheeel/Lecheeel/main/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview" />
-    <img src="https://raw.githubusercontent.com/Lecheeel/Lecheeel/main/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
-    <img src="https://raw.githubusercontent.com/Lecheeel/Lecheeel/main/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview" />
-    <img src="https://raw.githubusercontent.com/Lecheeel/Lecheeel/main/generated/languages.svg#gh-light-mode-only" alt="Top Languages" />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/Lecheeel/Lecheeel/main/generated/overview.svg#gh-dark-mode-only"
+      />
+      <img
+        src="https://raw.githubusercontent.com/Lecheeel/Lecheeel/main/generated/overview.svg"
+        alt="GitHub Stats Overview"
+      />
+    </picture>
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/Lecheeel/Lecheeel/main/generated/languages.svg#gh-dark-mode-only"
+      />
+      <img
+        src="https://raw.githubusercontent.com/Lecheeel/Lecheeel/main/generated/languages.svg"
+        alt="Top Languages"
+      />
+    </picture>
   </a>
 </p>
 

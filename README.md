@@ -10,6 +10,11 @@
 
 ---
 
+## WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 🌟 Welcome to my GitHub profile! I'm passionate about coding, open-source, and always exploring new technologies.  
 🚀 Feel free to check out my repositories and contributions!  
 

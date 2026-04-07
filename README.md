@@ -1,4 +1,5 @@
-# Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />  
+# Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+
 <p align="center">
   <a href="https://github.com/Lecheeel/Lecheeel">
     <picture>
@@ -24,51 +25,6 @@
   </a>
 </p>
 
----
-
-## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="28" height="28" />
-
-**AI / ML**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,matlab,anaconda,docker,fastapi&perline=9" alt="AI and machine learning stack: Python, PyTorch, TensorFlow, scikit-learn, OpenCV, MATLAB, Anaconda, Docker, FastAPI" />
-  </a>
-</p>
-
-**AI Workflow**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,docker,redis,rabbitmq,linux,workers,cloudflare,githubactions,git&perline=9" alt="AI systems and workflow stack: FastAPI, Docker, Redis, RabbitMQ, Linux, Workers, Cloudflare, GitHub Actions, Git" />
-  </a>
-</p>
-
-**Embedded Systems**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,raspberrypi,linux,cmake,qt,ros,bash,vscode&perline=10" alt="Embedded systems stack: C, C++, Raspberry Pi, Linux, CMake, Qt, ROS, Bash, VS Code" />
-  </a>
-</p>
-
-**Programming**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,nodejs,bash,powershell,git,github&perline=10" alt="Programming stack: Python, C, C++, JavaScript, TypeScript, Node.js, Bash, PowerShell, Git, GitHub" />
-  </a>
-</p>
-
-**Systems, Backend & IoT**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,docker,fastapi,sqlite,mysql,postgres,postman,githubactions,raspberrypi&perline=10" alt="Systems backend and IoT stack: Linux, Debian, Docker, FastAPI, SQLite, MySQL, PostgreSQL, Postman, GitHub Actions, Raspberry Pi" />
-  </a>
-</p>
-
-## WakaTime Stats
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
@@ -130,8 +86,51 @@ TypeScript               3 repos             ██░░░░░░░░░�
  Last Updated on 07/04/2026 07:42:19 UTC
 <!--END_SECTION:waka-->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="22" height="22" /> Welcome to my GitHub profile! I'm passionate about coding, open-source, and always exploring new technologies.  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="22" height="22" /> Feel free to check out my repositories and contributions!  
+
+## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />  
+
+**AI / ML**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,matlab,anaconda,docker,fastapi&perline=9" alt="AI and machine learning stack: Python, PyTorch, TensorFlow, scikit-learn, OpenCV, MATLAB, Anaconda, Docker, FastAPI" />
+  </a>
+</p>
+
+**AI Workflow**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,docker,redis,rabbitmq,linux,workers,cloudflare,githubactions,git&perline=9" alt="AI systems and workflow stack: FastAPI, Docker, Redis, RabbitMQ, Linux, Workers, Cloudflare, GitHub Actions, Git" />
+  </a>
+</p>
+
+**Embedded Systems**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,raspberrypi,linux,cmake,qt,ros,bash,vscode&perline=10" alt="Embedded systems stack: C, C++, Raspberry Pi, Linux, CMake, Qt, ROS, Bash, VS Code" />
+  </a>
+</p>
+
+**Programming**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,nodejs,bash,powershell,git,github&perline=10" alt="Programming stack: Python, C, C++, JavaScript, TypeScript, Node.js, Bash, PowerShell, Git, GitHub" />
+  </a>
+</p>
+
+**Systems, Backend & IoT**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,debian,docker,fastapi,sqlite,mysql,postgres,postman,githubactions,raspberrypi&perline=10" alt="Systems backend and IoT stack: Linux, Debian, Docker, FastAPI, SQLite, MySQL, PostgreSQL, Postman, GitHub Actions, Raspberry Pi" />
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="30" height="30" /> Welcome to my GitHub profile! I'm passionate about coding, open-source, and always exploring new technologies.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Feel free to check out my repositories and contributions!  
 
 <!--
 ## Hi there 👋

@@ -32,10 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,matlab,anaconda,docker,fastapi&perline=9&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,matlab,anaconda,docker,fastapi&perline=9&theme=light" alt="AI and machine learning stack: Python, PyTorch, TensorFlow, scikit-learn, OpenCV, MATLAB, Anaconda, Docker, FastAPI" />
-    </picture>
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,matlab,anaconda,docker,fastapi&perline=9" alt="AI and machine learning stack: Python, PyTorch, TensorFlow, scikit-learn, OpenCV, MATLAB, Anaconda, Docker, FastAPI" />
   </a>
 </p>
 
@@ -43,10 +40,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,docker,redis,rabbitmq,linux,workers,cloudflare,githubactions,git&perline=9&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=fastapi,docker,redis,rabbitmq,linux,workers,cloudflare,githubactions,git&perline=9&theme=light" alt="AI systems and workflow stack: FastAPI, Docker, Redis, RabbitMQ, Linux, Workers, Cloudflare, GitHub Actions, Git" />
-    </picture>
+    <img src="https://skillicons.dev/icons?i=fastapi,docker,redis,rabbitmq,linux,workers,cloudflare,githubactions,git&perline=9" alt="AI systems and workflow stack: FastAPI, Docker, Redis, RabbitMQ, Linux, Workers, Cloudflare, GitHub Actions, Git" />
   </a>
 </p>
 
@@ -54,10 +48,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,linux,cmake,qt,ros,bash,vscode&perline=10&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,linux,cmake,qt,ros,bash,vscode&perline=10&theme=light" alt="Embedded systems stack: C, C++, Arduino, Raspberry Pi, Linux, CMake, Qt, ROS, Bash, VS Code" />
-    </picture>
+    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,linux,cmake,qt,ros,bash,vscode&perline=10" alt="Embedded systems stack: C, C++, Arduino, Raspberry Pi, Linux, CMake, Qt, ROS, Bash, VS Code" />
   </a>
 </p>
 
@@ -65,10 +56,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,c,cpp,js,ts,nodejs,bash,powershell,git,github&perline=10&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,nodejs,bash,powershell,git,github&perline=10&theme=light" alt="Programming stack: Python, C, C++, JavaScript, TypeScript, Node.js, Bash, PowerShell, Git, GitHub" />
-    </picture>
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,nodejs,bash,powershell,git,github&perline=10" alt="Programming stack: Python, C, C++, JavaScript, TypeScript, Node.js, Bash, PowerShell, Git, GitHub" />
   </a>
 </p>
 
@@ -76,10 +64,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,debian,docker,fastapi,sqlite,mysql,postgres,postman,githubactions,raspberrypi&perline=10&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=linux,debian,docker,fastapi,sqlite,mysql,postgres,postman,githubactions,raspberrypi&perline=10&theme=light" alt="Systems backend and IoT stack: Linux, Debian, Docker, FastAPI, SQLite, MySQL, PostgreSQL, Postman, GitHub Actions, Raspberry Pi" />
-    </picture>
+    <img src="https://skillicons.dev/icons?i=linux,debian,docker,fastapi,sqlite,mysql,postgres,postman,githubactions,raspberrypi&perline=10" alt="Systems backend and IoT stack: Linux, Debian, Docker, FastAPI, SQLite, MySQL, PostgreSQL, Postman, GitHub Actions, Raspberry Pi" />
   </a>
 </p>
 

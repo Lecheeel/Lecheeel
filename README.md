@@ -1,4 +1,4 @@
-# Hi there! 👋  
+# Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="30" height="30" />  
 <p align="center">
   <a href="https://github.com/Lecheeel/Lecheeel">
     <picture>
@@ -23,6 +23,47 @@
     </picture>
   </a>
 </p>
+
+---
+
+## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="28" height="28" />
+
+Embedded Systems · Computer Vision · AI / ML · Algorithms · Large Language Models
+
+**Embedded & Systems**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,py,arduino,raspberrypi,linux,bash,cmake,qt,ros&perline=10&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,raspberrypi,linux,bash,cmake,qt,ros&perline=10&theme=light" alt="Embedded and systems stack: C, C++, Python, Arduino, Raspberry Pi, Linux, Bash, CMake, Qt, ROS" />
+    </picture>
+  </a>
+</p>
+
+**Vision, AI & LLM**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,fastapi,docker,anaconda,matlab&perline=8&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,fastapi,docker,anaconda,matlab&perline=8&theme=light" alt="Vision and AI stack: OpenCV, PyTorch, TensorFlow, scikit-learn, FastAPI, Docker, Anaconda, MATLAB" />
+    </picture>
+  </a>
+</p>
+
+**Engineering & Tooling**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,vscode,powershell,postman,sqlite,mysql&perline=8&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,powershell,postman,sqlite,mysql&perline=8&theme=light" alt="Engineering and tooling: Git, GitHub, GitHub Actions, VS Code, PowerShell, Postman, SQLite, MySQL" />
+    </picture>
+  </a>
+</p>
+
+## WakaTime Stats
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
@@ -84,8 +125,8 @@ TypeScript               3 repos             ██░░░░░░░░░�
  Last Updated on 07/04/2026 07:42:19 UTC
 <!--END_SECTION:waka-->
 
-🌟 Welcome to my GitHub profile! I'm passionate about coding, open-source, and always exploring new technologies.  
-🚀 Feel free to check out my repositories and contributions!  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="22" height="22" /> Welcome to my GitHub profile! I'm passionate about coding, open-source, and always exploring new technologies.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="22" height="22" /> Feel free to check out my repositories and contributions!  
 
 <!--
 ## Hi there 👋

@@ -13,6 +13,33 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   10 repos            ████████░░░░░░░░░░░░░░░░░   32.26 % 
+C                        5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+C++                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 🌟 Welcome to my GitHub profile! I'm passionate about coding, open-source, and always exploring new technologies.  

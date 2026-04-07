@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="30" height="30" />  
+# Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />  
 <p align="center">
   <a href="https://github.com/Lecheeel/Lecheeel">
     <picture>
@@ -26,15 +26,9 @@
 
 ---
 
-## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="28" height="28" />
+## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="28" height="28" />
 
-Embedded Systems · Computer Vision · AI / ML · Algorithms · Large Language Models · IoT Systems
-
-**AI / Machine Learning**
-
-Deep Learning: CNN / RNN / LSTM / TCN  
-LLM Engineering: Prompt Engineering, Sampling, Edge AI, Real-time Inference  
-Computer Vision: MediaPipe, OpenCV, Pose Estimation, Vision Pipelines
+**AI / ML**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -45,10 +39,7 @@ Computer Vision: MediaPipe, OpenCV, Pose Estimation, Vision Pipelines
   </a>
 </p>
 
-**AI Systems & Workflow**
-
-ComfyUI, AI Workflow Pipelines, Dify, Coze  
-Async Task Processing, Queue Systems, Inference Optimization, Scheduling
+**AI Workflow**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -61,11 +52,6 @@ Async Task Processing, Queue Systems, Inference Optimization, Scheduling
 
 **Embedded Systems**
 
-ESP32: ESP-IDF, FreeRTOS  
-STM32: HAL, Bare-metal  
-Peripheral Interfaces: I2C, SPI, UART, GPIO  
-Sensor Integration, Hardware Debugging, Edge Device Control
-
 <p align="center">
   <a href="https://skillicons.dev">
     <picture>
@@ -77,10 +63,6 @@ Sensor Integration, Hardware Debugging, Edge Device Control
 
 **Programming**
 
-Python for AI, Backend, Automation  
-C / C++ for Embedded and Performance-critical Systems  
-JavaScript / TypeScript for Tooling, Frontend, and Integrations
-
 <p align="center">
   <a href="https://skillicons.dev">
     <picture>
@@ -91,10 +73,6 @@ JavaScript / TypeScript for Tooling, Frontend, and Integrations
 </p>
 
 **Systems, Backend & IoT**
-
-Linux: Debian, Server Deployment, system services  
-CLI Tools, Automation Scripts, Backend APIs  
-Zigbee, MQTT, Serial, TCP, Edge Device Networking
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -167,8 +145,8 @@ TypeScript               3 repos             ██░░░░░░░░░�
  Last Updated on 07/04/2026 07:42:19 UTC
 <!--END_SECTION:waka-->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="22" height="22" /> Welcome to my GitHub profile! I'm passionate about coding, open-source, and always exploring new technologies.  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="22" height="22" /> Feel free to check out my repositories and contributions!  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="22" height="22" /> Welcome to my GitHub profile! I'm passionate about coding, open-source, and always exploring new technologies.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="22" height="22" /> Feel free to check out my repositories and contributions!  
 
 <!--
 ## Hi there 👋

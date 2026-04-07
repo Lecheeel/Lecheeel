@@ -28,37 +28,79 @@
 
 ## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="28" height="28" />
 
-Embedded Systems · Computer Vision · AI / ML · Algorithms · Large Language Models
+Embedded Systems · Computer Vision · AI / ML · Algorithms · Large Language Models · IoT Systems
 
-**Embedded & Systems**
+**AI / Machine Learning**
+
+Deep Learning: CNN / RNN / LSTM / TCN  
+LLM Engineering: Prompt Engineering, Sampling, Edge AI, Real-time Inference  
+Computer Vision: MediaPipe, OpenCV, Pose Estimation, Vision Pipelines
 
 <p align="center">
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,py,arduino,raspberrypi,linux,bash,cmake,qt,ros&perline=10&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,raspberrypi,linux,bash,cmake,qt,ros&perline=10&theme=light" alt="Embedded and systems stack: C, C++, Python, Arduino, Raspberry Pi, Linux, Bash, CMake, Qt, ROS" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,matlab,anaconda,docker,fastapi&perline=9&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,matlab,anaconda,docker,fastapi&perline=9&theme=light" alt="AI and machine learning stack: Python, PyTorch, TensorFlow, scikit-learn, OpenCV, MATLAB, Anaconda, Docker, FastAPI" />
     </picture>
   </a>
 </p>
 
-**Vision, AI & LLM**
+**AI Systems & Workflow**
+
+ComfyUI, AI Workflow Pipelines, Dify, Coze  
+Async Task Processing, Queue Systems, Inference Optimization, Scheduling
 
 <p align="center">
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,fastapi,docker,anaconda,matlab&perline=8&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,fastapi,docker,anaconda,matlab&perline=8&theme=light" alt="Vision and AI stack: OpenCV, PyTorch, TensorFlow, scikit-learn, FastAPI, Docker, Anaconda, MATLAB" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,docker,redis,rabbitmq,linux,workers,cloudflare,githubactions,git&perline=9&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=fastapi,docker,redis,rabbitmq,linux,workers,cloudflare,githubactions,git&perline=9&theme=light" alt="AI systems and workflow stack: FastAPI, Docker, Redis, RabbitMQ, Linux, Workers, Cloudflare, GitHub Actions, Git" />
     </picture>
   </a>
 </p>
 
-**Engineering & Tooling**
+**Embedded Systems**
+
+ESP32: ESP-IDF, FreeRTOS  
+STM32: HAL, Bare-metal  
+Peripheral Interfaces: I2C, SPI, UART, GPIO  
+Sensor Integration, Hardware Debugging, Edge Device Control
 
 <p align="center">
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,vscode,powershell,postman,sqlite,mysql&perline=8&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,powershell,postman,sqlite,mysql&perline=8&theme=light" alt="Engineering and tooling: Git, GitHub, GitHub Actions, VS Code, PowerShell, Postman, SQLite, MySQL" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,linux,cmake,qt,ros,bash,vscode&perline=10&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,linux,cmake,qt,ros,bash,vscode&perline=10&theme=light" alt="Embedded systems stack: C, C++, Arduino, Raspberry Pi, Linux, CMake, Qt, ROS, Bash, VS Code" />
+    </picture>
+  </a>
+</p>
+
+**Programming**
+
+Python for AI, Backend, Automation  
+C / C++ for Embedded and Performance-critical Systems  
+JavaScript / TypeScript for Tooling, Frontend, and Integrations
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,c,cpp,js,ts,nodejs,bash,powershell,git,github&perline=10&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,nodejs,bash,powershell,git,github&perline=10&theme=light" alt="Programming stack: Python, C, C++, JavaScript, TypeScript, Node.js, Bash, PowerShell, Git, GitHub" />
+    </picture>
+  </a>
+</p>
+
+**Systems, Backend & IoT**
+
+Linux: Debian, Server Deployment, system services  
+CLI Tools, Automation Scripts, Backend APIs  
+Zigbee, MQTT, Serial, TCP, Edge Device Networking
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,debian,docker,fastapi,sqlite,mysql,postgres,postman,githubactions,raspberrypi&perline=10&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=linux,debian,docker,fastapi,sqlite,mysql,postgres,postman,githubactions,raspberrypi&perline=10&theme=light" alt="Systems backend and IoT stack: Linux, Debian, Docker, FastAPI, SQLite, MySQL, PostgreSQL, Postman, GitHub Actions, Raspberry Pi" />
     </picture>
   </a>
 </p>

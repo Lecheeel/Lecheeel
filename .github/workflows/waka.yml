@@ -22,7 +22,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_EDITORS: "True"
           SHOW_TIMEZONE: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_TOTAL_CODE_TIME: "False"
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
           SHOW_PROFILE_VIEWS: "True"

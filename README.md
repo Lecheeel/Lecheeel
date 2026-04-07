@@ -29,29 +29,15 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.58%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 63 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 36 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1949 commits        ████████████████░░░░░░░░░   65.71 % 
-🌆 Daytime                806 commits         ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+🌞 Morning                1949 commits        ████████████████░░░░░░░░░   65.67 % 
+🌆 Daytime                808 commits         ███████░░░░░░░░░░░░░░░░░░   27.22 % 
 🌃 Evening                33 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 🌙 Night                  178 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 ```
@@ -59,11 +45,11 @@
 
 ```text
 Monday                   343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Tuesday                  470 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Wednesday                311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Thursday                 391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Friday                   1016 commits        █████████░░░░░░░░░░░░░░░░   34.25 % 
-Saturday                 217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Tuesday                  472 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Wednesday                311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Thursday                 391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Friday                   1016 commits        █████████░░░░░░░░░░░░░░░░   34.23 % 
+Saturday                 217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 Sunday                   218 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 ```
 
@@ -98,12 +84,8 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Lecheeel/Lecheeel/main/assets/bar_graph.png)
-
-
- Last Updated on 07/04/2026 07:09:03 UTC
+ Last Updated on 07/04/2026 07:42:19 UTC
 <!--END_SECTION:waka-->
 
 🌟 Welcome to my GitHub profile! I'm passionate about coding, open-source, and always exploring new technologies.  

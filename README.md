@@ -1,17 +1,10 @@
 # Hi there! 👋  
-<!--
 <p align="center">
-  <a href="https://github.com/Lecheeel/github-stats">
-    <img src="https://github.com/Lecheeel/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview" />
-    <img src="https://github.com/Lecheeel/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
-  </a>
-</p>
--->
-
-<p align="center">
-  <a href="https://github.com/Lecheeel/github-stats">
-    <img src="https://github.com/Lecheeel/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview" />
-    <img src="https://github.com/Lecheeel/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages" />
+  <a href="https://github.com/Lecheeel/Lecheeel">
+    <img src="https://raw.githubusercontent.com/Lecheeel/Lecheeel/main/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview" />
+    <img src="https://raw.githubusercontent.com/Lecheeel/Lecheeel/main/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
+    <img src="https://raw.githubusercontent.com/Lecheeel/Lecheeel/main/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview" />
+    <img src="https://raw.githubusercontent.com/Lecheeel/Lecheeel/main/generated/languages.svg#gh-light-mode-only" alt="Top Languages" />
   </a>
 </p>
 

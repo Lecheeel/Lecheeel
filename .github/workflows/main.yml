@@ -7,15 +7,22 @@ on:
     - cron: "5 0 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: generate-stats-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
 jobs:
   build:
+    if: github.event_name != 'push' || github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python 3.8
         uses: actions/setup-python@v5
@@ -47,4 +54,14 @@ jobs:
           git add generated/*.svg
           git diff --cached --quiet && exit 0
           git commit -m "Update generated stats"
-          git push
+
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep 5
+          done
+
+          exit 1

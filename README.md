@@ -74,7 +74,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 **AI / ML**
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Lecheeel/Lecheeel">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,matlab,anaconda,docker,fastapi&perline=9" alt="AI and machine learning stack: Python, PyTorch, TensorFlow, scikit-learn, OpenCV, MATLAB, Anaconda, Docker, FastAPI" />
   </a>
 </p>
@@ -82,7 +82,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 **AI Workflow**
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Lecheeel/Lecheeel">
     <img src="https://skillicons.dev/icons?i=fastapi,docker,redis,rabbitmq,linux,workers,cloudflare,githubactions,git&perline=9" alt="AI systems and workflow stack: FastAPI, Docker, Redis, RabbitMQ, Linux, Workers, Cloudflare, GitHub Actions, Git" />
   </a>
 </p>
@@ -90,7 +90,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 **Embedded Systems**
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Lecheeel/Lecheeel">
     <img src="https://skillicons.dev/icons?i=c,cpp,raspberrypi,linux,cmake,qt,ros,bash,vscode&perline=10" alt="Embedded systems stack: C, C++, Raspberry Pi, Linux, CMake, Qt, ROS, Bash, VS Code" />
   </a>
 </p>
@@ -98,7 +98,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 **Programming**
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Lecheeel/Lecheeel">
     <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,nodejs,bash,powershell,git,github&perline=10" alt="Programming stack: Python, C, C++, JavaScript, TypeScript, Node.js, Bash, PowerShell, Git, GitHub" />
   </a>
 </p>
@@ -106,7 +106,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 **Systems, Backend & IoT**
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Lecheeel/Lecheeel">
     <img src="https://skillicons.dev/icons?i=linux,debian,docker,fastapi,sqlite,mysql,postgres,postman,githubactions,raspberrypi&perline=10" alt="Systems backend and IoT stack: Linux, Debian, Docker, FastAPI, SQLite, MySQL, PostgreSQL, Postman, GitHub Actions, Raspberry Pi" />
   </a>
 </p>

@@ -50,12 +50,6 @@ Sunday                   280 commits         ██░░░░░░░░░�
 ```
 
 
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -114,9 +108,6 @@ Dart                     2 repos             █░░░░░░░░░░�
     <img src="https://skillicons.dev/icons?i=linux,debian,docker,fastapi,sqlite,mysql,postgres,postman,githubactions,raspberrypi&perline=10" alt="Systems backend and IoT stack: Linux, Debian, Docker, FastAPI, SQLite, MySQL, PostgreSQL, Postman, GitHub Actions, Raspberry Pi" />
   </a>
 </p>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="30" height="30" /> Welcome to my GitHub profile! I'm passionate about coding, open-source, and always exploring new technologies.  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Feel free to check out my repositories and contributions!  
 
 <!--
 ## Hi there 👋

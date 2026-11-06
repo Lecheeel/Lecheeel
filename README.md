@@ -72,7 +72,7 @@ Kotlin                   5 repos             ██░░░░░░░░░�
  Last Updated on 06/11/2026 07:22:19 UTC
 <!--END_SECTION:waka-->
 
-
+<!--
 ## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />  
 
 **AI / ML**
@@ -115,7 +115,7 @@ Kotlin                   5 repos             ██░░░░░░░░░�
   </a>
 </p>
 
-<!--
+
 ## Hi there 👋
 
 **Lecheeel/Lecheeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
